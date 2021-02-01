@@ -1,0 +1,13 @@
+C:\Users\hossa\repos\cSharp_Arrays\cSharp_Arrays\bin\Debug\netcoreapp3.1\cSharp_Arrays.exe
+C:\Users\hossa\repos\cSharp_Arrays\cSharp_Arrays\bin\Debug\netcoreapp3.1\cSharp_Arrays.deps.json
+C:\Users\hossa\repos\cSharp_Arrays\cSharp_Arrays\bin\Debug\netcoreapp3.1\cSharp_Arrays.runtimeconfig.json
+C:\Users\hossa\repos\cSharp_Arrays\cSharp_Arrays\bin\Debug\netcoreapp3.1\cSharp_Arrays.runtimeconfig.dev.json
+C:\Users\hossa\repos\cSharp_Arrays\cSharp_Arrays\bin\Debug\netcoreapp3.1\cSharp_Arrays.dll
+C:\Users\hossa\repos\cSharp_Arrays\cSharp_Arrays\bin\Debug\netcoreapp3.1\cSharp_Arrays.pdb
+C:\Users\hossa\repos\cSharp_Arrays\cSharp_Arrays\obj\Debug\netcoreapp3.1\cSharp_Arrays.csprojAssemblyReference.cache
+C:\Users\hossa\repos\cSharp_Arrays\cSharp_Arrays\obj\Debug\netcoreapp3.1\cSharp_Arrays.AssemblyInfoInputs.cache
+C:\Users\hossa\repos\cSharp_Arrays\cSharp_Arrays\obj\Debug\netcoreapp3.1\cSharp_Arrays.AssemblyInfo.cs
+C:\Users\hossa\repos\cSharp_Arrays\cSharp_Arrays\obj\Debug\netcoreapp3.1\cSharp_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\hossa\repos\cSharp_Arrays\cSharp_Arrays\obj\Debug\netcoreapp3.1\cSharp_Arrays.dll
+C:\Users\hossa\repos\cSharp_Arrays\cSharp_Arrays\obj\Debug\netcoreapp3.1\cSharp_Arrays.pdb
+C:\Users\hossa\repos\cSharp_Arrays\cSharp_Arrays\obj\Debug\netcoreapp3.1\cSharp_Arrays.genruntimeconfig.cache
